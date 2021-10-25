@@ -11,6 +11,10 @@ Below are some updates:
 
 Contract deployment information can be found in deployment_output.md
 
+STORE FRONT:
+https://testnets.opensea.io/smittyinudacity?tab=created
+
+
 Minting 
 minting: 1 --> ZKP was done here.
 Minted creature. Transaction: 0x33b97afdaac62b5f59aebfaf1c028133311dd0d4b3c5ccae31c465c149343553
